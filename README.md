@@ -3,7 +3,7 @@ A project based on html and css .....
 
 It is a simple project to understsnd html and css..
 
-
+It is a clone of Amazon Website...
 
 click here to check my project:
 
