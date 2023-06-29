@@ -8,5 +8,9 @@ It is a clone of Amazon Website...
 click here to check my project:
 
 http://127.0.0.1:5500/main.html
+jb,jkglyuyu
+jhg yuro6ro87i
+kbi ytv8tt
+kjui bt opy
 
 
